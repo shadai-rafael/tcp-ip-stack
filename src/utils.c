@@ -1,3 +1,19 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  utils.c
+ *
+ *    Description:  This file contains some utils for tcpip stack.
+ *
+ *        Version:  1.0
+ *        Created:  February 2020
+ *       Revision:  0.0
+ *       Compiler:  gcc
+ *
+ *         Author:  Shadai Lopez Garcia, shadai.lopez.garcia@gmail.com
+ * 
+ * =====================================================================================
+ */
 #include <string.h>
 #include <stdio.h>
 #include <math.h>

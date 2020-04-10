@@ -1,3 +1,19 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  graph.h
+ *
+ *    Description:  This file contains the graph definitions.
+ *
+ *        Version:  1.0
+ *        Created:  February 2020
+ *       Revision:  0.0
+ *       Compiler:  gcc
+ *
+ *         Author:  Shadai Lopez Garcia, shadai.lopez.garcia@gmail.com
+ * 
+ * =====================================================================================
+ */
 #ifndef __GRAPH__
 #define __GRAPH__
 #include "net.h"

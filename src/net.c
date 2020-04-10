@@ -1,3 +1,20 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  net.c
+ *
+ *    Description:  This file contains the network logic implementation.
+ *
+ *        Version:  1.0
+ *        Created:  February 2020
+ *       Revision:  0.0
+ *       Compiler:  gcc
+ *
+ *         Author:  Shadai Lopez Garcia, shadai.lopez.garcia@gmail.com
+ * 
+ * =====================================================================================
+ */
+
 #include "net.h"
 #include "graph.h"
 /*

@@ -1,3 +1,19 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  net.h
+ *
+ *    Description:  This file contains the network definitions.
+ *
+ *        Version:  1.0
+ *        Created:  February 2020
+ *       Revision:  0.0
+ *       Compiler:  gcc
+ *
+ *         Author:  Shadai Lopez Garcia, shadai.lopez.garcia@gmail.com
+ * 
+ * =====================================================================================
+ */
 #ifndef __NET__
 #define __NET__
 #include <glib.h>

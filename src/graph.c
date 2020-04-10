@@ -1,3 +1,19 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  graph.c
+ *
+ *    Description:  This file contains the graph implementation.
+ *
+ *        Version:  1.0
+ *        Created:  February 2020
+ *       Revision:  0.0
+ *       Compiler:  gcc
+ *
+ *         Author:  Shadai Lopez Garcia, shadai.lopez.garcia@gmail.com
+ * 
+ * =====================================================================================
+ */
 #include <stdio.h>
 #include "graph.h"
 /*********************STATIC PROTOTYPE FUNC************************************/
